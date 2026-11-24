@@ -1,8 +1,8 @@
-# llms-txt-generator
+# llms-txt-file-builder
 
 Generate a spec-compliant `llms.txt` for your site. Browser-only, no signup, no API calls.
 
-**Live demo:** https://0xelitesystem.github.io/llms-txt-generator/
+**Live demo:** https://0xelitesystem.github.io/llms-txt-file-builder/
 
 ![Screenshot of the llms.txt generator interface](screenshot.png)
 
@@ -12,7 +12,7 @@ A markdown file at the root of your site (`/llms.txt`) that gives AI engines a c
 
 ## Use
 
-Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/llms-txt-generator/`.
+Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/llms-txt-file-builder/`.
 
 1. Enter your brand name, one-line tagline, and a 2 to 4 sentence brand paragraph.
 2. Add sections (Core pages, Tools, Reference, Pricing, etc).
@@ -64,8 +64,8 @@ Everything runs in your browser. The brand name, tagline, sections and links you
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/llms-txt-generator
-cd llms-txt-generator
+git clone https://github.com/0xelitesystem/llms-txt-file-builder
+cd llms-txt-file-builder
 ```
 
 Open `index.html` in any modern browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000/.
