@@ -53,7 +53,7 @@ The second tab generates build notes for `llms-full.txt`, an optional companion 
 ## Pairs with
 
 - [robots-txt-ai-builder](https://github.com/0xelitesystem/robots-txt-ai-builder): generate the robots.txt that points AI bots to your llms.txt
-- [schema-markup-generator](https://github.com/0xelitesystem/schema-markup-generator): JSON-LD schema for the pages you list
+- [json-ld-markup-builder](https://github.com/0xelitesystem/json-ld-markup-builder): JSON-LD schema for the pages you list
 - [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer): score individual pages for AI citation likelihood
 - [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor): audit any page for E-E-A-T signals
 
